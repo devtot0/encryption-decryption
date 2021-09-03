@@ -1,2 +1,2 @@
 # encryption-decryption
-Encryption-Decryption project from Hyperskill implemented using the Strategy design pattern.
+Encryption-Decryption project from Hyperskill/Jet Brains Academy implemented using the Strategy design pattern.
